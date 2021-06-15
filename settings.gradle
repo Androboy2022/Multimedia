@@ -1,0 +1,8 @@
+include ':myalbum'
+include ':cameraintent'
+include ':viedorecoder'
+include ':audiorecoder'
+include ':youtubeplayer'
+include ':videoplayer'
+include ':app'
+rootProject.name = "Chap_Multimedia"
